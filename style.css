@@ -197,4 +197,18 @@
         padding:10px 15px;
         margin-top: 23px;
     }
+    @media  (max-width: 768px){
+        .loc{
+            display:grid;
+            grid-template-columns:repeat(1fr);
+            gap:10px;
+            align-items: center;
+
+            
+        }
+
+
+    }
+        
+    
     
