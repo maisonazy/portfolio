@@ -148,6 +148,9 @@
         margin-top: 13px;
 
     }
+    html{
+        scroll-behavior: smooth;
+    }
     .techno{
         cursor: pointer;
         font-size: 33px;
